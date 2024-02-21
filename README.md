@@ -1,4 +1,4 @@
-# Fuel Specifications
+# Fuel Specifications read
 
 <!-- markdownlint-disable-next-line MD036 -->
 **Fuel: A Secure Decentralized Generalized Massively Scalable Transaction Ledger**
